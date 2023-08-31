@@ -1,3 +1,4 @@
+//2D array notations
 #include <stdio.h>
 
 void rotateMatrix(int rows, int cols, int matrix[rows][cols]) {
@@ -60,4 +61,3 @@ int main() {
 
     return 0;
 }
-
